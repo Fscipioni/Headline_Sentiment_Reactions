@@ -1,6 +1,6 @@
 # DATASCI-266_FinalProject
 
-Francesca Scipioni, Tony Lin, and Ahmeda Cheick
+Francesca Scipioni, Tony Lin, and Ahmeda Cheick <br>
 UC Berkeley School of Information
 
 ## Abstract
