@@ -1,4 +1,5 @@
-# DATASCI-266_FinalProject
+# Headline Sentiment Reactions
+## Exploring how news headlines drive sentiment and engagement on social media
 
 Francesca Scipioni, Tony Lin, and Ahmeda Cheick <br>
 UC Berkeley School of Information
@@ -38,3 +39,10 @@ interplay between news media strategies and
 public emotional responses, with implications
 for promoting balanced discourse in the digital
 age.
+
+> *This project is part of the curriculum for Course 266 — Natural Language Processing at the UC Berkeley School of Information.*
+
+***If you enjoyed this project and would like to learn more about my work, you can find all the details at the links below:***
+
+[Personal website](francescascipioni.com)
+[Medium](https://medium.com/@fra.scipioni.83/how-facebook-reactions-reveal-the-emotional-impact-of-news-headlines-5e8334da0e21)
