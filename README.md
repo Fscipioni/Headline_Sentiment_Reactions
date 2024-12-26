@@ -44,5 +44,5 @@ age.
 
 ***If you enjoyed this project and would like to learn more about my work, you can find all the details at the links below:***
 
-[Personal website](francescascipioni.com)
+[Personal website](https://www.francescascipioni.com/portfolio/project-one-ephnc-2grgd) <br>
 [Medium](https://medium.com/@fra.scipioni.83/how-facebook-reactions-reveal-the-emotional-impact-of-news-headlines-5e8334da0e21)
