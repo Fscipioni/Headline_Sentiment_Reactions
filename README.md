@@ -1,5 +1,5 @@
 # Headline Sentiment Reactions
-## Exploring how news headlines drive sentiment and engagement on social media
+Exploring how news headlines drive sentiment and engagement on social media
 
 Francesca Scipioni, Tony Lin, and Ahmeda Cheick <br>
 UC Berkeley School of Information
